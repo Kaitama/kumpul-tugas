@@ -18,4 +18,4 @@ Demo project ini dapat diakses pada halaman berikut ini:
 4. password  : admin
 
 # Hak Cipta
-Copyright 2018 - Kaitama @RuangKombur.com
+Copyright 2018 - Khairi Ibnutama, S.Kom., M.Kom. @RuangKombur.com
