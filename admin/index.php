@@ -7,9 +7,9 @@
 </head>
 <body>
 	<?php include('contents/admin-nav.php'); ?>
-	<div class="container">
-
-	</div>
+	<main role="main" class="container">
+		<?php include('contents/content-index.php'); ?>
+	</main>
 
 	<?php include('contents/content-footer.php'); ?>
 
